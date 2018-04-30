@@ -5,9 +5,9 @@ url                          : "https://niamurrell.github.io/dactl" # the base h
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Workshop
+  title                      : Nia's Awesome Demo
   description                  : >
-                               This website was made for a Codeland 2018 workshop on building a Jekyll site.
+                               This awesome website was made for an awesome Codeland 2018 workshop on building a super-cool Jekyll site.
 
 # Layout configuration
   logo_path                  : "assets/img/code.svg" # path to logo file
@@ -26,7 +26,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Nia Murrell
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : your@email.com # change to your e-mail address
   twitter                   : twitter-user-name
